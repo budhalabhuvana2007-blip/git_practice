@@ -1,2 +1,2 @@
 # git_practice
-this about my personal information
+this my fist git repository
